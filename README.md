@@ -9,9 +9,9 @@
 ```
 
 | | |
-|---:| ---:|
-| **Acquired** | `.sql`, `.php`, `.css` |
-| **Learning** | `.xaml`, `.cs` |
+|:---:|---:|
+| **Acquired** | `.sql` `.php` `.css` |
+| **Learning** | `.xaml` `.cs` |
 | | | 
 
 
