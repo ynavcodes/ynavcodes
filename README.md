@@ -9,4 +9,5 @@
 ```
 
 💡 **Acquired** `.sql`, `.php`, `.css`
+
 🌱 **Learning** `.xaml`, `.cs`
