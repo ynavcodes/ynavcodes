@@ -10,8 +10,8 @@
 
 | | |
 |:---:|---:|
-| **Acquired** | `.sql` `.php` `.css` |
-| **Learning** | `.xaml` `.cs` |
+| **✔** | `.sql` `.php` `.css` |
+| **🌱** | `.xaml` `.cs` |
 | | | 
 
 
