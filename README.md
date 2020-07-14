@@ -11,7 +11,7 @@
 | | |
 |---:| ---:|
 | **Acquired** | `.sql`, `.php`, `.css` |
-| **Learning** | `.xaml`, `.cs |
+| **Learning** | `.xaml`, `.cs` |
 | | | 
 
 
