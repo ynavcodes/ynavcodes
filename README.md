@@ -5,11 +5,12 @@
             ████    ▄███▄ ▄███▄  ██▄▄▄██ █▄     ███     
          ▄█▄███                                                         
          
-   Future Full-Stack Developer based in Saarland, Germany.
+                  🚀 Future Full-Stack Developer 
+                  📍  Based in Saarland, Germany
 ```
 
-| |            |   |
-| :-------------: |-------------:| -----:|
-|  💡 | **Acquired** | `.sql`, `.php`, `.css` |
-| 🌱 | **Learning**     | `.xaml`, `.cs |
-| |            |   | 
+|            |   |
+|-------------:| -----:|
+| **Acquired** | `.sql`, `.php`, `.css` |
+| **Learning**     | `.xaml`, `.cs |
+|            |   | 
