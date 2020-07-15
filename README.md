@@ -5,8 +5,8 @@
             ██ ▄█▀     █████  ▄█ ▄███ ████
            ██ ▄██       ███  ████▀ ▀█  █▀ 
    
-          🚀 Future Full-Stack Developer 
-          📍  Based in Saarland, Germany
+           🚀 Future Full-Stack Developer 
+           📍  Based in Saarland, Germany
 ```
 
 | | |
