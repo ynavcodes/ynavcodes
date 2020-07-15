@@ -9,9 +9,9 @@
            📍  Based in Saarland, Germany
 ```
 
-|🤓|🌱|
-|:---:|:---:|
-|`.sql` `.php` `.css`|`.xaml` `.cs`|
+|🤓|`.sql` `.php` `.css`|
+|:---:|---:|
+|🌱|`.xaml` `.cs`|
 
 
 # 💛
