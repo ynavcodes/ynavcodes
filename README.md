@@ -13,3 +13,8 @@
 * [x] `.sql` 
 * [x] `.php` `.css`
 * [ ] `.xaml` `.cs` 
+
+
+<img align='left' src="https://www.ynav.de/wp-content/uploads/2019/12/logo-000-1.png">
+🚀 Future Full-Stack Developer<br>
+📍  Based in Saarland, Germany
