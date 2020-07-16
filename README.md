@@ -1,5 +1,6 @@
-[![Spotify](https://img.icons8.com/ios-glyphs/2x/spotify.png)](https://open.spotify.com/user/ynav_)
-[![Steam](https://img.icons8.com/ios-glyphs/2x/steam-circled.png)](https://steamcommunity.com/id/ynough)
+[![Spotify](https://img.icons8.com/dusk/1x/spotify.png)](https://open.spotify.com/user/ynav_)
+[![Steam](https://img.icons8.com/dusk/1x/steam.png)](https://steamcommunity.com/id/ynough)
+
 
 ```
           ▄    █  ███       ██   ██  █
