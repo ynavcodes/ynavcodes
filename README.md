@@ -1,4 +1,4 @@
-<img align='right' src="https://media.giphy.com/media/lKKXOCVviOAXS/giphy-downsized.gif" width="230">
+<img align='right' src="https://media.giphy.com/media/U6YxrKZ84AfppW48r4/giphy.gif" width="230">
 
 ```
           ▄    █  ███       ██   ██  █
