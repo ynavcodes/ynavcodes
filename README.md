@@ -1,4 +1,4 @@
-<img align='right' src="https://www.ynav.de/wp-content/uploads/2019/12/sunny-300x239.png" width="230">
+<img align='right' src="https://media.giphy.com/media/lKKXOCVviOAXS/giphy-downsized.gif" width="230">
 
 ```
           ▄    █  ███       ██   ██  █
