@@ -10,4 +10,4 @@
 
 * [x] `.sql` 
 * [x] `.php` `.css`
-* [ ] `.cs` `.xaml`
+* [x] `.cs` `.xaml`
