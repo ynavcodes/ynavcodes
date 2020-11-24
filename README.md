@@ -11,5 +11,3 @@
 * [x] `.sql` 
 * [x] `.php` `.css`
 * [x] `.cs` `.xaml`
-
-Udemy Course: C# Masterclass
