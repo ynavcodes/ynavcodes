@@ -3,7 +3,7 @@
 <img align='left' src="https://www.ynav.de/wp-content/uploads/2019/12/logo-000.png" height='65px'>
 
 ```
-🚀 Future Full-Stack Developer
+🚀 Full-Stack Developer
 📍  Based in Saarland, Germany
 ```
 
