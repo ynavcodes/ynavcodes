@@ -11,3 +11,5 @@
 * [x] `.sql` 
 * [x] `.php` `.css`
 * [x] `.cs` `.xaml`
+
+Currently learning: Entity Framework Code First
