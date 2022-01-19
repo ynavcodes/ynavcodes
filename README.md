@@ -4,7 +4,7 @@
 
 ```
 🚀 Full-Stack Developer
-📍  Based in Saarland, Germany
+📍 Based in Saarland, Germany
 ```
 
 
