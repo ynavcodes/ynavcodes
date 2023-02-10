@@ -9,7 +9,8 @@
 
 
 * [x] `.sql` 
-* [x] `.php` `.css`
 * [x] `.cs` `.xaml`
+* [x] `.php` `.css`
+
 
 [![Stand With Ukraine](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/badges/StandWithUkraine.svg)](https://vshymanskyy.github.io/StandWithUkraine)
