@@ -2,11 +2,7 @@
 
 <img align='left' src="https://www.ynav.de/wp-content/uploads/2021/08/Element-5-e1628334481717.png" height='65px'>
 
-```
-🚀 Full-Stack Developer
-📍 Based in Saarland, Germany
-```
-
+🚀 Full-Stack Developer 📍 Based in Saarland, Germany
 
 * [x] `.sql` 
 * [x] `.cs` `.xaml`
