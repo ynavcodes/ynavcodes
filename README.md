@@ -1,6 +1,6 @@
 <img align='right' src="https://media.giphy.com/media/U6YxrKZ84AfppW48r4/giphy.gif" width="230">
 
-🚀 Full-Stack Developer 📍 Based in Saarland, Germany
+🔭 Full-Stack Developer 📍 Based in Saarland, Germany
 
 * [x] `.sql` 
 * [x] `.cs` `.xaml`
