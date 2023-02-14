@@ -5,4 +5,4 @@
 💻 Full Stack Developer since '20  
   
 
-<img src="https://img.icons8.com/ios-filled/50/FAB005/c-sharp-logo.png"/> <img src="https://img.icons8.com/material/24/FAB005/xamarin.png"/>
+<img src="https://img.icons8.com/ios-filled/50/737373/c-sharp-logo.png"/> <img src="https://img.icons8.com/ios-filled/50/737373/xamarin.png"/>
