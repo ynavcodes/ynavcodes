@@ -2,7 +2,7 @@
 
 🤘🏼 Hi, I am Vanessa alias 𝐲𝐧𝐚𝐯  
 📍 Based in Saarland, Germany  
-🔭 Full Stack Developer since '20  
+💻 Full Stack Developer since '20  
   
   
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
