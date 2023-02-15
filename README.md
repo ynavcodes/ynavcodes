@@ -1,4 +1,4 @@
-<img align='right' src="https://media.giphy.com/media/U6YxrKZ84AfppW48r4/giphy.gif" width="230">
+<img align='right' src="https://user-images.githubusercontent.com/66949634/218949714-20650827-1dd3-441f-af6e-589f5c38adec.gif" width="230">
 
 <img src="https://img.icons8.com/tiny-glyph/16/dc9800/user.png"/> Hi, I am Vanessa alias 𝐲𝐧𝐚𝐯  
 <img src="https://img.icons8.com/tiny-glyph/16/dc9800/user-location.png"/> Based in Saarland, Germany  
