@@ -11,4 +11,4 @@
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=ynav_&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&bar_color=66c837&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile) 
 
-<img src="https://img.icons8.com/ios-filled/50/737373/c-sharp-logo.png"/> <img src="https://img.icons8.com/ios-filled/50/737373/xamarin.png"/> <img src="https://img.icons8.com/tiny-glyph/16/737373/bug.png"/> <kbd>free bugs</kbd>
+<img src="https://img.icons8.com/tiny-glyph/16/737373/bug.png"/> <kbd>free bugs</kbd>
