@@ -1,4 +1,7 @@
+<img align='right' src="https://user-images.githubusercontent.com/66949634/218949714-20650827-1dd3-441f-af6e-589f5c38adec.gif" width="230">
 <img align='center' src="ynavcodes.svg" Width="300">
+
+
 
 ![freebugs](https://img.shields.io/badge/free%20bugs-000000?style=flat&logo=appveyor&logo=firebase&logoColor=white)
 
@@ -9,8 +12,6 @@ var ynav = new user {
   job = "Fullstack .NET Developer"
 };
 ```
-
-<img align='right' src="https://user-images.githubusercontent.com/66949634/218949714-20650827-1dd3-441f-af6e-589f5c38adec.gif" width="230">
 
 I'm using ..  
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square)
