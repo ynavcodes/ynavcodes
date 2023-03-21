@@ -13,11 +13,10 @@ var ynav = new user {
 <img align='right' src="https://user-images.githubusercontent.com/66949634/218949714-20650827-1dd3-441f-af6e-589f5c38adec.gif" width="230">
 
 I'm using ..  
-![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=appveyor&logo=c-sharp&logoColor=white) 
-![.NET](https://img.shields.io/badge/.NET-5C2D91?style=flat-square&logo=appveyor&logo=.net&logoColor=white)
-![Xamarin](https://img.shields.io/badge/Xamarin-3498DB?style=flat-square&logo=appveyor&logo=xamarin&logoColor=white)
-![MAUI](https://img.shields.io/badge/MAUI-b408ff?style=flat-square&logo=appveyor&logo=maui&logoColor=white)  
-
+![C#](https://img.shields.io/badge/C%23-239120?style=flat-square)
+![.NET](https://img.shields.io/badge/.NET-5C2D91?style=flat-square)
+![Xamarin](https://img.shields.io/badge/Xamarin-3498DB?style=flat-square&logo=Xamarin&logoColor=white)
+![MAUI](https://img.shields.io/badge/MAUI-5C2D91?style=flat-square)
 
 currently learning ..  
-![Firebase](https://img.shields.io/badge/Firebase-ffd900?style=flat-square&logo=appveyor&logo=firebase&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=111)
