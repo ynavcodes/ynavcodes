@@ -3,8 +3,8 @@
 ![freebugs](https://img.shields.io/badge/free%20bugs-000000?style=flat&logo=appveyor&logo=firebase&logoColor=white)
 
 ```c#
-var user = new user {
-  name = "Vanessa / ynav",
+var ynav = new user {
+  name = "Vanessa",
   location = "Saarland, Germany",
   job = "Fullstack .NET Developer"
 };
