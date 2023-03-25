@@ -1,7 +1,7 @@
 <img align="right" src="ynavcodes.svg" width="300"> 
 
 ✨ Hi you. I am Vanessa.  
-<sub>.NET Developer from Germany</sub>
+<sub>Full-Stack .NET Developer from Germany</sub>
   
 <sub>I'm using ..</sub><br>
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square)
