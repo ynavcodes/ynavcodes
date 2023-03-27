@@ -10,7 +10,7 @@
 **Full Stack .NET Developer**  
 <sup>📍 from Germany</sup>  
 
-<sub>I'm using ..</sub>  
+<sup>I'm using ..</sup>  
 ![C#](https://img.shields.io/badge/C%23-2D2F2F?style=flat-square)
 ![.NET](https://img.shields.io/badge/.NET-2D2F2F?style=flat-square)
 ![Xamarin](https://img.shields.io/badge/Xamarin-2D2F2F?style=flat-square&logo=Xamarin&logoColor=white)
@@ -20,7 +20,7 @@
 ![Notion](https://img.shields.io/badge/Notion-2D2F2F?style=flat-square&logo=Notion&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-2D2F2F?style=flat-square&logo=Figma&logoColor=white)  
 
-<sub>currently learning ..</sub>  
+<sup>currently learning ..</sup>  
 ![Firebase](https://img.shields.io/badge/Firebase-2D2F2F?style=flat-square&logo=firebase&logoColor=white)<br>
 
 </div>
