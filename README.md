@@ -7,7 +7,7 @@
 
 <img src="images\ynavcodes.svg" width="300"><br>
 <sub>my name is Vanessa</sub>   
-**Full Stack .NET Developer**  
+**.NET Developer**  
 <sup>📍 from Germany</sup>  
 
 <sup>I'm using ..</sup>  
