@@ -21,7 +21,7 @@
 ![Figma](https://img.shields.io/badge/Figma-2D2F2F?style=flat-square&logo=Figma&logoColor=white)  
 
 <sup>currently learning ..</sup>  
-![Firebase](https://img.shields.io/badge/Firebase-2D2F2F?style=flat-square&logo=firebase&logoColor=white)<br>
+![Firebase](https://img.shields.io/badge/React-2D2F2F?style=flat-square&logo=react&logoColor=white)<br>
 
 </div>
 <img align="left" src="images\bottom-left.svg" height="10"/>
