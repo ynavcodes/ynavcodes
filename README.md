@@ -20,9 +20,6 @@
 ![Notion](https://img.shields.io/badge/Notion-2D2F2F?style=flat-square&logo=Notion&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-2D2F2F?style=flat-square&logo=Figma&logoColor=white)  
 
-<sup>currently learning ..</sup>  
-![Firebase](https://img.shields.io/badge/React-2D2F2F?style=flat-square&logo=react&logoColor=white)<br>
-
 </div>
 <img align="left" src="images\bottom-left.svg" height="10"/>
 <img align="right" src="images\bottom-right.svg" height="10"/>
