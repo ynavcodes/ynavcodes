@@ -15,7 +15,8 @@
 ![.NET](https://img.shields.io/badge/.NET-2D2F2F?style=flat-square)
 ![Xamarin](https://img.shields.io/badge/Xamarin-2D2F2F?style=flat-square&logo=Xamarin&logoColor=white)
 ![MAUI](https://img.shields.io/badge/MAUI-2D2F2F?style=flat-square)
-![SQLite](https://img.shields.io/badge/SQLite-2D2F2F?style=flat-square)<br>
+![SQLite](https://img.shields.io/badge/SQLite-2D2F2F?style=flat-square)
+![Flutter](https://img.shields.io/badge/Flutter-2D2F2F?style=flat-square&logo=Flutter&logoColor=white)<br>
 ![Spotify](https://img.shields.io/badge/Spotify-2D2F2F?style=flat-square&logo=Spotify&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-2D2F2F?style=flat-square&logo=Notion&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-2D2F2F?style=flat-square&logo=Figma&logoColor=white)  
